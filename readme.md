@@ -7,3 +7,4 @@ Author: Jana
 Das *Projekt* geht gut voran.
 
 Weitere Planungen werden gemacht.
+Changes were made.
